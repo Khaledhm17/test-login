@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <button class="instagram">Instagram</button>
                     </div>
 
-                    <p class="register-text">لا تملك حساب؟ <a href="register.html">إنشاء حساب</a></p>
+                    <p class="register-text">لا تملك حساب؟ <a href="register.php">إنشاء حساب</a></p>
                 </form>
             </div>
         </div>
